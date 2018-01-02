@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ganesh.com.datetimelibrary.fourmob.datetimepicker.date.AccessibleDateAnimator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@id/animator"
+    android:layout_width="270dip"
+    android:layout_height="270dip"
+    android:background="@color/date_picker_view_animator"
+    android:gravity="center" />
